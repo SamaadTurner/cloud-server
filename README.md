@@ -5,8 +5,8 @@ Deploy a basic server to AWS Elastic Beanstalk.
 
 # Links and Resources
 GitHub Actions ci/cd
-GUI Deploy url
-CLI Deploy url
+GUI URL: http://cf-web-service-env.eba-ivu2hrmn.us-west-2.elasticbeanstalk.com/bikes
+CLI Deploy url: http://cloud-service-cli-env.eba-up6trdbs.us-west-2.elasticbeanstalk.com/bikes
 # Collaborators
 
 # Setup
